@@ -1,4 +1,4 @@
-name: nextjs-tailwind-course-landing-page
+name: nextjs-tailwind-course-landing-page1
 nextjs:
     packageManager: npm
     path: .
